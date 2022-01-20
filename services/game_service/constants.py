@@ -1,0 +1,5 @@
+ROLL_DICE_MSG = "please press enter to roll the dice"
+WIN_MSG = "wins the game"
+DICE_VALUE_EXCEEDS = "Sorry, can't move as the dice value exceeds the board size"
+MET_SNAKE = "Oops! You met a snake!!"
+MET_LADDER = "Hurray! That's a ladder!!"
